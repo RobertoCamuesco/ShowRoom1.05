@@ -1,0 +1,16 @@
+{
+"companyName": "ARQ ART Projetos",
+"productName": "ShowRoom ",
+"productVersion": "1.05",
+"dataUrl": "WEB GL.data.unityweb",
+"wasmCodeUrl": "WEB GL.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEB GL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.9f1"
+}
